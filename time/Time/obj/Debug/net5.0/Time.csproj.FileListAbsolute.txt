@@ -1,0 +1,16 @@
+C:\Users\mrafa\source\repos\Time\Time\bin\Debug\net5.0\Time.exe
+C:\Users\mrafa\source\repos\Time\Time\bin\Debug\net5.0\Time.deps.json
+C:\Users\mrafa\source\repos\Time\Time\bin\Debug\net5.0\Time.runtimeconfig.json
+C:\Users\mrafa\source\repos\Time\Time\bin\Debug\net5.0\Time.runtimeconfig.dev.json
+C:\Users\mrafa\source\repos\Time\Time\bin\Debug\net5.0\Time.dll
+C:\Users\mrafa\source\repos\Time\Time\bin\Debug\net5.0\ref\Time.dll
+C:\Users\mrafa\source\repos\Time\Time\bin\Debug\net5.0\Time.pdb
+C:\Users\mrafa\source\repos\Time\Time\obj\Debug\net5.0\Time.csproj.AssemblyReference.cache
+C:\Users\mrafa\source\repos\Time\Time\obj\Debug\net5.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrafa\source\repos\Time\Time\obj\Debug\net5.0\Time.AssemblyInfoInputs.cache
+C:\Users\mrafa\source\repos\Time\Time\obj\Debug\net5.0\Time.AssemblyInfo.cs
+C:\Users\mrafa\source\repos\Time\Time\obj\Debug\net5.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\mrafa\source\repos\Time\Time\obj\Debug\net5.0\Time.dll
+C:\Users\mrafa\source\repos\Time\Time\obj\Debug\net5.0\ref\Time.dll
+C:\Users\mrafa\source\repos\Time\Time\obj\Debug\net5.0\Time.pdb
+C:\Users\mrafa\source\repos\Time\Time\obj\Debug\net5.0\Time.genruntimeconfig.cache
